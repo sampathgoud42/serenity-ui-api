@@ -1,0 +1,2 @@
+ProgramType,SequenceBundleType,title,grade,markets,name1,name2,hmhTag1,hmhTag2,searchTerm,lookFor,folderType,folderName,aspectName,aspectName2,siteTypeTest,waitForSearchResultsSeconds,,,resourceType,right
+Program,Sequence Bundle,testTitle,2,International,Cairo1,Cairo2,hmhCairo1,hmhCairo2,Cairo,Folders,Folder,ProgramBucketFolder,Sequence Bundle Bucket,Program Bucket,Consumer site,30,,,Other,Public Domain

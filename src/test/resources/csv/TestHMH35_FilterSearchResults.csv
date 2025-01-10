@@ -1,0 +1,2 @@
+ProgramType,SequenceBundleType,title,name1,name2,grade,markets,markets2,searchTerm,facet,lookFor,folderType,folderName,aspectName,folderName2,aspectName2,siteTypeTest,waitForSearchResultsSeconds
+Program,Sequence Bundle,testTitle,Kololo1,Kololo2,2,International,Us - State,Kololo,Us - State,Folders,Folder,ProgramFolder,Program Bucket,SequenceFolder,Sequence Bundle Bucket,Consumer site,30

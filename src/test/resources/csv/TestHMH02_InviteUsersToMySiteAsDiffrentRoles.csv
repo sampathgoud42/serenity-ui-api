@@ -1,0 +1,4 @@
+username,password,userEmail,userPassword,roleName,taskName,siteTypeTest
+automation_user_01,welcome,sam1@ctstest.com,ctshmh,Consumer,Invitation to join,Consumer site
+automation_user_01,welcome,sam2@ctstest.com,ctshmh,Contributor,Invitation to join,Consumer site
+automation_user_01,welcome,sam3@ctstest.com,ctshmh,Collaborator,Invitation to join,Consumer site

@@ -1,0 +1,2 @@
+type,fileName,siteTypeTest,waitForSearchResultsSeconds,folderName,siteDestination,moveAction,folderType,isPresent,aspectName,categoryName,description,title,right,resourceType,grade
+Component,ctsQA.txt,Consumer site,30,testFF,Recent Sites,Move,Folder,no,Component Bucket,Regions,CognizantQA,ctsQA.txt,Public Domain,Other,K

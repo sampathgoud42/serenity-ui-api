@@ -1,0 +1,2 @@
+programType,ProgramName,title,grade,markets,actionName,deleteAction,fileName,objectType,objectName,folderType,folderName,aspectName,message,siteTypeTest,aspectName2,
+Program,testProgram2,testTitle,2,International,Edit Sequence,Delete Folder,customFile.txt,Learning Object,lb,Folder,ProgramBucketFolder,Program Bucket,Cannot delete the selected object,Consumer site,Component Bucket,
